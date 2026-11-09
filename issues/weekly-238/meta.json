@@ -1,0 +1,9 @@
+{
+  "slug": "weekly-238",
+  "number": 238,
+  "kind": "weekly",
+  "title": "🔧 Fix slow DAGs: Airflow 3 best practices | DataTalks.Club Weekly",
+  "date": "2025-08-18",
+  "preview": "Speed up parsing, design readable/testable DAGs, and use dynamic task mapping + data-aware scheduling with Astronomer.",
+  "source": "https://mailchi.mp/datatalks.club/weekly-238"
+}
